@@ -1,0 +1,13 @@
+{
+  "name": "Anime Roulette",
+  "short_name": "Anime Roulette",
+  "description": "Roleta aleatória de animes de 2011 a 2026.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#090b14",
+  "theme_color": "#090b14",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
